@@ -1,2 +1,2 @@
 # CompChemE
-Computational methods for Chemical Engineering
+Collection of projects from my blog.
